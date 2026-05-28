@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="ClinicaSanFelipe_TOBE.archimate" id="id-db5212063e034fefaccfaf158451e7e8" version="5.0.0">
+  <folder name="Strategy" id="id-9f966b0a55b64f7f9ddb9d166642bd78" type="strategy"/>
+  <folder name="Business" id="id-c126c7fac08c497b834fc52d01458c2f" type="business"/>
+  <folder name="Application" id="id-9fdc796ad1b047cca76f184c7bd80f2f" type="application"/>
+  <folder name="Technology &amp; Physical" id="id-accaff1470e5497f901483f021dd2b35" type="technology"/>
+  <folder name="Motivation" id="id-7f824956fea54cef8ee50d3473a18a12" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="id-7c706b1981d44301abaae81226999b38" type="implementation_migration"/>
+  <folder name="Other" id="id-1a58f7b7cff5442f92ec3899240bbd47" type="other"/>
+  <folder name="Relations" id="id-576c1aac08d74227a1dc637f52dc1158" type="relations"/>
+  <folder name="Views" id="id-bd6e13734c1945adb60b7eb3917e3fc3" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-64244744994744a78ab856178a89b344"/>
+  </folder>
+</archimate:model>
