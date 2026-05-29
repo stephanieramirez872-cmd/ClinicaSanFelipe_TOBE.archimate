@@ -110,28 +110,28 @@
     <element xsi:type="archimate:ArchimateDiagramModel" name="02 - Capacidades objetivo" id="id-6542518a04e84907a7b667544586f1f1">
       <child xsi:type="archimate:Group" id="id-d1f90960c7f947e685cfb23b9a3c4bf0" name="Cliente" textAlignment="1">
         <bounds x="60" y="72" width="277" height="121"/>
-        <child xsi:type="archimate:DiagramObject" id="id-92582883aff84511a9fbfd8be7923d63" archimateElement="id-b4187802974b42e28702639ff6f80d18" type="1">
+        <child xsi:type="archimate:DiagramObject" id="id-92582883aff84511a9fbfd8be7923d63" archimateElement="id-b4187802974b42e28702639ff6f80d18">
           <bounds x="12" y="48" width="120" height="55"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-6b4d0e0a84c84963aca22420eb6a27eb" archimateElement="id-4b5bb71c8ea34cdb9fd8c72a1dbcd7d8" type="1">
+        <child xsi:type="archimate:DiagramObject" id="id-6b4d0e0a84c84963aca22420eb6a27eb" archimateElement="id-4b5bb71c8ea34cdb9fd8c72a1dbcd7d8">
           <bounds x="144" y="48" width="120" height="55"/>
         </child>
       </child>
       <child xsi:type="archimate:Group" id="id-d8032c7bea99440583395b0fb21b6062" name="Operaciones" textAlignment="1">
         <bounds x="60" y="216" width="277" height="121"/>
-        <child xsi:type="archimate:DiagramObject" id="id-80e4a4bfe0e546a8b3f74556732bbca8" archimateElement="id-4a0618feab4e4f8ea603e466a727e7ce" type="1">
+        <child xsi:type="archimate:DiagramObject" id="id-80e4a4bfe0e546a8b3f74556732bbca8" archimateElement="id-4a0618feab4e4f8ea603e466a727e7ce">
           <bounds x="12" y="48" width="120" height="55"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-02021654e43e4935b088ae3001e0570c" archimateElement="id-b4187802974b42e28702639ff6f80d18" type="1">
+        <child xsi:type="archimate:DiagramObject" id="id-02021654e43e4935b088ae3001e0570c" archimateElement="id-b4187802974b42e28702639ff6f80d18">
           <bounds x="144" y="48" width="120" height="55"/>
         </child>
       </child>
       <child xsi:type="archimate:Group" id="id-4ba669e76d3848a2a81bf916f59b30a3" name="Habilitadoras" textAlignment="1">
         <bounds x="60" y="360" width="277" height="109"/>
-        <child xsi:type="archimate:DiagramObject" id="id-2650e6177b4d486b91b7e7b4517e9026" archimateElement="id-61728282d2c44a83a5799fd2d9c284de" type="1">
+        <child xsi:type="archimate:DiagramObject" id="id-2650e6177b4d486b91b7e7b4517e9026" archimateElement="id-61728282d2c44a83a5799fd2d9c284de">
           <bounds x="12" y="36" width="120" height="55"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-0a5746713cf14f0eab75059d25af522c" archimateElement="id-fe217230f27a429684d06a84405a1e0e" type="1">
+        <child xsi:type="archimate:DiagramObject" id="id-0a5746713cf14f0eab75059d25af522c" archimateElement="id-fe217230f27a429684d06a84405a1e0e">
           <bounds x="144" y="36" width="120" height="55"/>
         </child>
       </child>
